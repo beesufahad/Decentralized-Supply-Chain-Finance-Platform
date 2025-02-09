@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.factoring]
+path = 'contracts/factoring.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.invoice-tokenization]
 path = 'contracts/invoice-tokenization.clar'
 clarity_version = 2

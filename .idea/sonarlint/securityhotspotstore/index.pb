@@ -13,3 +13,5 @@ M
 contracts/credit-scoring.clar,6/2/62addf62734c4f3e24dea6098d1c1fa5d3756b29
 L
 tests/credit-scoring.test.ts,6/7/67d4e4f0fce978d00deb20f77741cc2020960d07
+Q
+!contracts/payment-automation.clar,c/a/cacc97d61b8a90836f7d1a1205624bc38636aa8f

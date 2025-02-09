@@ -15,3 +15,7 @@ L
 tests/credit-scoring.test.ts,6/7/67d4e4f0fce978d00deb20f77741cc2020960d07
 Q
 !contracts/payment-automation.clar,c/a/cacc97d61b8a90836f7d1a1205624bc38636aa8f
+>
+.gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
+P
+ tests/payment-automation.test.ts,2/2/22aa999046f93ccd8556dd881dfd3187ee9b6ab9

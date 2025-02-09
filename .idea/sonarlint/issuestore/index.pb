@@ -9,3 +9,5 @@ H
 contracts/factoring.clar,8/a/8aeee4ed40e14a638a737c8a14edb42892b61a60
 G
 tests/factoring.test.ts,5/1/51583c3a0db0be43d9c80c425f59e074d1900a97
+M
+contracts/credit-scoring.clar,6/2/62addf62734c4f3e24dea6098d1c1fa5d3756b29
